@@ -1,0 +1,26 @@
+.App{
+  text-align: center;
+}
+.products{
+  display:grid;
+  grid-template-columns: 0.2fr 0.2fr 0.2fr 0.2fr ;
+  padding: 40px;
+  
+}
+.products img{  
+  width: 50%;
+}
+.App h1{
+  text-align: center;
+}
+.button{
+  font-size: 20px;
+  padding: 20px;
+  margin-left: 500px;
+  height: 40px;
+}
+header{
+  background-color: blueviolet;
+  height: 50px;
+  padding-top: 20px;
+}
